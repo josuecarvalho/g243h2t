@@ -1,3 +1,3 @@
 # Segundo Trimestre
 ## Site de apostas.
-### Josué G. Carvalho Nº21 - Glawber Eduardo G. Moraes Nº12
+### Josué G. Carvalho Nº21 - Glawber Eduardo S. Moreira Nº12
