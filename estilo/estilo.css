@@ -1,5 +1,25 @@
 body{
     background-color: rgb(107, 18, 18);
     color: rgb(255, 219, 219);
+}
+@import url(reset.css);
+.barra-login{
+    background-color: rgb(48, 0, 0);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 5px 3px 3px 1px yellow;
+}
+.formLogin input {
+    width: 80px;
+    border-radius: 5px;
+    border: none;
+}
+.formLogin label {
+    font-size: 14px;
+}
+.esqueci-senha {
+    font-size: 14px;
+    margin-bottom: 3px;
     text-align: center;
 }
